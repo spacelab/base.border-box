@@ -12,7 +12,7 @@
     "css"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/spacelab/base.border-box/",
+  "homepage": "https://github.com/spacelab/base.border-box",
   "private": true,
   "ignore": [
     "**/.*",
